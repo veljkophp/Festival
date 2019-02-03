@@ -1,0 +1,16 @@
+sava centar:
+	Advokat
+	First Reformed
+	Apostazija
+
+dom omladine:
+	First Reformed
+	Black Butterfly
+	Bugs
+	Apostazija
+
+cineplexx:
+	first Reformed
+	Black Butterfly
+	Bugs
+	Afera

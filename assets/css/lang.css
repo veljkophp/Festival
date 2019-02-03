@@ -1,0 +1,38 @@
+.head-lang .srb {
+	background: url(../images/srb.png);
+	background-size: 100% 100%;
+}
+		
+.head-lang .eng {
+	background: url(../images/uk.png);
+	background-size: 100% 100%;
+}
+
+.head-lang .phoca-flag {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	margin: auto;
+	display: inline-block;
+	display: block;
+	vertical-align: middle;
+	-webkit-box-shadow: inset 0px 0px 0px 2px #fff;
+	box-shadow: inset 0px 0px 0px 2px #fff;
+	text-indent: -9999px;
+	opacity: .4;
+}
+
+.head-lang p.phoca-flagbox {
+	width: 55px;
+	height: 32px;
+	border: solid 1px #999;
+	border-radius: 0%;
+	-ms-border-radius: 0%;
+	position: relative;
+	overflow: hidden;
+	display: block;
+	float: left;
+	margin-left: 7px;
+}
